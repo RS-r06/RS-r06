@@ -1,6 +1,6 @@
-# Rehumile Masego Sechele
+# Rehumile Sechele
 
-Software development student in Pretoria, South Africa. I finished a Higher
+Software engineering student in Pretoria, South Africa. I finished a Higher
 Certificate in Information Systems (Software Development) at Eduvos in 2025
 and I am in the first year of a BSc in IT, majoring in Software Engineering.
 I am looking for a junior developer or internship role.
