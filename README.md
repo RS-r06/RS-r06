@@ -15,6 +15,10 @@ SQL Server, HTML, CSS, JavaScript, Linux, Git
 - [Airfoil-Panel-Method](https://github.com/RS-r06/Airfoil-Panel-Method):
   Panel method in Python that predicts airfoil lift and pressure, checked
   against thin airfoil theory. Built with Claude as a learning project.
+- [ATC-Simulator](https://github.com/RS-r06/ATC-Simulator): Radar air
+  traffic control game in plain JavaScript.
+  [Play it](https://rs-r06.github.io/ATC-Simulator/). Built with Claude as a
+  learning project.
 - [SDG13-CA](https://github.com/RS-r06/SDG13-CA): Random Forest model
   predicting CO2 emissions from economic and energy indicators.
 - [CovidTracker](https://github.com/RS-r06/CovidTracker): Global COVID-19
