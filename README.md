@@ -12,6 +12,15 @@ SQL Server, HTML, CSS, JavaScript, Linux, Git
 
 ## Projects
 
+### [Hybrid-Renewable-Dispatch](https://github.com/RS-r06/Hybrid-Renewable-Dispatch)
+
+Solar, wind and battery plant in the Northern Cape: day-ahead output
+forecasts with machine learning, then a stochastic linear program with a CVaR
+risk limit to choose what to promise the grid, tested on a year of real
+weather. Built with Claude as a learning project.
+
+<a href="https://github.com/RS-r06/Hybrid-Renewable-Dispatch"><img src="https://raw.githubusercontent.com/RS-r06/Hybrid-Renewable-Dispatch/main/results/forecast_week.png" width="600" alt="Day-ahead forecast band against actual plant output over one week"></a>
+
 ### [Airfoil-Panel-Method](https://github.com/RS-r06/Airfoil-Panel-Method)
 
 Panel method in Python that predicts airfoil lift and pressure, checked
