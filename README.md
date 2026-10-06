@@ -12,6 +12,17 @@ SQL Server, HTML, CSS, JavaScript, Linux, Git
 
 ## Projects
 
+### [EEG-Seizure-Detection](https://github.com/RS-r06/EEG-Seizure-Detection)
+
+Detects epileptic seizures in children's scalp EEG: signal processing from
+the raw file format up, per-patient machine learning, and an evaluation with
+exact confidence intervals and a test against chance. Caught 31 of 31
+seizures in held-out recordings, with 0.8 false alarms per day.
+**[Watch it run on real EEG](https://rs-r06.github.io/EEG-Seizure-Detection/).**
+Built with Claude as a learning project.
+
+<a href="https://rs-r06.github.io/EEG-Seizure-Detection/"><img src="https://raw.githubusercontent.com/RS-r06/EEG-Seizure-Detection/main/results/eeg_onset.png" width="600" alt="18 channels of EEG around a seizure, with the detector's alarm 9 seconds after onset"></a>
+
 ### [Hybrid-Renewable-Dispatch](https://github.com/RS-r06/Hybrid-Renewable-Dispatch)
 
 Solar, wind and battery plant in the Northern Cape: day-ahead output
