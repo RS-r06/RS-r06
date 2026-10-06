@@ -12,6 +12,17 @@ SQL Server, HTML, CSS, JavaScript, Linux, Git
 
 ## Projects
 
+### [Breast-Cancer-Survival-Model](https://github.com/RS-r06/Breast-Cancer-Survival-Model)
+
+Predicts 5-year recurrence-free survival in breast cancer with a Cox model
+built on one cohort (Rotterdam) and validated, unchanged, on another (a
+German trial). Survival statistics written out by hand and tested against
+standard libraries. Its predicted risks matched the new cohort closely
+(observed / expected 1.04). **[Try the calculator](https://rs-r06.github.io/Breast-Cancer-Survival-Model/).**
+Built with Claude as a learning project.
+
+<a href="https://rs-r06.github.io/Breast-Cancer-Survival-Model/"><img src="https://raw.githubusercontent.com/RS-r06/Breast-Cancer-Survival-Model/main/results/calculator.png" width="600" alt="Survival calculator showing a predicted 5-year recurrence-free survival curve"></a>
+
 ### [EEG-Seizure-Detection](https://github.com/RS-r06/EEG-Seizure-Detection)
 
 Detects epileptic seizures in children's scalp EEG: signal processing from
